@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "Name": "Rally Beast",
+    "MaxSpeed": 650,
+    "Acceleration": 700,
+    "Grip": 0.850000024,
+    "ColorHex": "#FF4444",
+    "SpritePath": "Assets/Sprites/car_red.png"
+  },
+  {
+    "Id": 2,
+    "Name": "Drift Master",
+    "MaxSpeed": 600,
+    "Acceleration": 750,
+    "Grip": 0.699999988,
+    "ColorHex": "#44FF44",
+    "SpritePath": "Assets/Sprites/car_green.png"
+  },
+  {
+    "Id": 3,
+    "Name": "Grip Pro",
+    "MaxSpeed": 700,
+    "Acceleration": 650,
+    "Grip": 0.949999988,
+    "ColorHex": "#4444FF",
+    "SpritePath": "Assets/Sprites/car_blue.png"
+  }
+]
